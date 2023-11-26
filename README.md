@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://www.keycloak.org/resources/images/icon.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Keycloak</h2>
- <p align="center">Keycloak est une solution open source d'identité et d'accès (IAM) qui fournit une gamme de fonctionnalités pour sécuriser les applications et les services. Il comprend la prise en charge de l'authentification, de l'autorisation, de l'authentification unique (SSO) et plus encore.</p>
+ <p align="center"><strong>Keycloak</strong> est une solution open source d'identité et d'accès (IAM) qui fournit une gamme de fonctionnalités pour sécuriser les applications et les services. Il comprend la prise en charge de l'authentification, de l'autorisation, de l'authentification unique (SSO) et plus encore.</p>
 </p>
 </p>
 
